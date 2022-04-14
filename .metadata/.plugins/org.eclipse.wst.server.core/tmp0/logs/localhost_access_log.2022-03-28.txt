@@ -1,0 +1,13 @@
+127.0.0.1 - - [28/Mar/2022:13:44:22 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [28/Mar/2022:13:44:25 +0700] "GET /Nhom3-Interior/WEB-INF/classes/servlet/index.java HTTP/1.1" 404 604
+0:0:0:0:0:0:0:1 - - [28/Mar/2022:13:44:26 +0700] "GET /favicon.ico HTTP/1.1" 404 684
+0:0:0:0:0:0:0:1 - - [28/Mar/2022:13:45:08 +0700] "GET /Nhom3-Interior/view/login.jsp HTTP/1.1" 200 2575
+0:0:0:0:0:0:0:1 - - [28/Mar/2022:13:45:08 +0700] "GET /Nhom3-Interior/js/bootstrap.bundle.min.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [28/Mar/2022:13:45:08 +0700] "GET /Nhom3-Interior/bootstrap/bootstrap.min.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [28/Mar/2022:13:45:08 +0700] "GET /Nhom3-Interior/bootstrap/tiny-slider.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [28/Mar/2022:13:45:08 +0700] "GET /Nhom3-Interior/js/jquery.min.js HTTP/1.1" 200 89503
+0:0:0:0:0:0:0:1 - - [28/Mar/2022:13:45:08 +0700] "GET /Nhom3-Interior/font/fontawesome/css/all.min.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [28/Mar/2022:13:45:08 +0700] "GET /Nhom3-Interior/css/login.css HTTP/1.1" 200 413
+0:0:0:0:0:0:0:1 - - [28/Mar/2022:13:45:08 +0700] "GET /Nhom3-Interior/js/tiny-slider.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [28/Mar/2022:13:45:08 +0700] "GET /Nhom3-Interior/js/custom.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [28/Mar/2022:13:45:09 +0700] "GET /Nhom3-Interior/font/fontawesome/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 -
